@@ -1,7 +1,7 @@
 Symantec Endpoint Protection Disabler (from 2018)
 =================================================
 
-Someone asked about similar techniques on [Reddit](https://www.reddit.com/r/redteamsec/comments/18p044i/any_tricks_for_disabling_sep_cybereason/) and it reminded that I never released this one.
+Someone asked about similar techniques on [Reddit](https://www.reddit.com/r/redteamsec/comments/18p044i/any_tricks_for_disabling_sep_cybereason/) and it reminded me that I never released this one.
 
 The main idea is this:
 
